@@ -9,7 +9,7 @@
   <a href="https://app.netlify.com/teams/shaharshira1008/overview?_ga=2.65587502.184164055.1662908090-225454543.1658744394"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'></a>
 </p>
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shira1008) [<img      src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shira-shahar-8823b7242/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://app.netlify.com/teams/shaharshira1008/overview?_ga=2.65587502.184164055.1662908090-225454543.1658744394)
+
 
 
 
@@ -51,6 +51,10 @@ stats:
 
 lang:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shira1008)](https://github.com/anuraghazra/github-readme-stats)
+
+pics linkdin etc:
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shira1008) [<img      src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shira-shahar-8823b7242/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://app.netlify.com/teams/shaharshira1008/overview?_ga=2.65587502.184164055.1662908090-225454543.1658744394)
 -->
+
 
 
