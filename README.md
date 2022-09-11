@@ -17,7 +17,7 @@
 
 </br>
 <p align="center">
-👩🏽‍🔬 B.Sc / </> HTML /  💅🏽 CSS / 💻 JS / 🐍 PYTHON /➕ MATLAB
+👩🏽‍🔬 B.Sc / 🟧 HTML /  💅🏽 CSS / 💻 JS / 🐍 PYTHON /➕ MATLAB
    </p>
    
    
