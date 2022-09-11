@@ -8,7 +8,7 @@
 
    
 
-<div align="center">
+
 ## Skills and Experience:
 -  👩🏽‍🔬 B.Sc
 -  <> HTML
@@ -16,7 +16,7 @@
 -  💻 JS 
 -  🐍 PYTHON
 -  ➕ MATLAB
-</div>
+
 
 
  
