@@ -15,7 +15,7 @@
  
 </div>
 
-
+</br>
 <p align="center">
 👩🏽‍🔬 B.Sc / </> HTML /  💅🏽 CSS / 💻 JS / 🐍 PYTHON /➕ MATLAB
    </p>
