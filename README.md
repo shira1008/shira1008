@@ -17,7 +17,7 @@
 </br>
 
 <p align="center">
-👩🏽‍🔬 B.Sc 🎓
+🎓 B.Sc 🎓
  </p>
 
 <p align="center">
