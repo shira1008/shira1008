@@ -6,7 +6,7 @@
 <p align="center">
 <a href="https://github.com/shira1008"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
  <a href="https://www.linkedin.com/in/shira-shahar-8823b7242/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
-  <a href="https://www.facebook.com/shira.shahar/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='Facebook' height='40'></a>
+  <a href="https://www.facebook.com/shira.shahar/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='Facebook' height='40'></a>
 </p>
 
 <p align="center">
