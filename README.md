@@ -17,17 +17,11 @@
 
 </br>
 <p align="center">
-👩🏽‍🔬 B.Sc / 🟧 HTML /  💅🏽 CSS / 💻 JS / 🐍 PYTHON /➕ MATLAB
+👩🏽‍🔬 B.Sc / 🟧 HTML /  💅🏽 CSS / 💻 JS / 🐍 PYTHON /➗ MATLAB
    </p>
    
-   
- ## Skills and Experience:
-  -  👩🏽‍🔬 B.Sc 
-  -  </> HTML
-  -  💅🏽 CSS
-  -  💻 JS 
-  -  🐍 PYTHON
-  -  ➕ MATLAB
+##
+
 
 
 
@@ -47,6 +41,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ ## Skills and Experience:
+  -  👩🏽‍🔬 B.Sc 
+  -  </> HTML
+  -  💅🏽 CSS
+  -  💻 JS 
+  -  🐍 PYTHON
+  -  ➕ MATLAB
 
 stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shira1008&hide=contribs,prs)
