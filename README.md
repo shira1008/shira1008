@@ -14,11 +14,11 @@
 </div>
 
 
-
-
-   
+<p align="center">
+👩🏽‍🔬 B.Sc / </> HTML /  💅🏽 CSS / 💻 JS / 🐍 PYTHON /➕ MATLAB
+   </p>
  ## Skills and Experience:
-  -  👩🏽‍🔬 B.Sc
+  -  👩🏽‍🔬 B.Sc 
   -  </> HTML
   -  💅🏽 CSS
   -  💻 JS 
