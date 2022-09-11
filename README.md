@@ -1,8 +1,11 @@
+
 <p align="center">
 <img src="https://github.com/shira1008/shira1008/blob/main/HI2.png?raw=true"  /> 
 </p>
 
+<p align="center">
 <a href="https://github.com/shira1008"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+</p>
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shira1008) [<img      src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shira-shahar-8823b7242/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://app.netlify.com/teams/shaharshira1008/overview?_ga=2.65587502.184164055.1662908090-225454543.1658744394)
 
