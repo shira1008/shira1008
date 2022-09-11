@@ -1,5 +1,5 @@
 
-<img src="https://github.com/shira1008/shira1008/blob/main/HI2.png?raw=true" width="780px"  /> 
+<img src="https://github.com/shira1008/shira1008/blob/main/HI2.png?raw=true"  /> 
 
 
 
