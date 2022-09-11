@@ -3,7 +3,7 @@
 <img src="https://github.com/shira1008/shira1008/blob/main/HI2.png?raw=true" /> 
 </p>
 
-![I am GitHub Readme Generator's creator](https://github.com/shira1008/shira1008/blob/main/HI2.png?raw=true)
+
 
 
 <div align="center">
