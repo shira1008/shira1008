@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shira1008&hide=contribs,prs)
+
 
 
 <!--
@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shira1008&hide=contribs,prs)
 -->
