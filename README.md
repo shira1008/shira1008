@@ -4,11 +4,11 @@
 
 
 #### Skills and Experience:
-*👩🏽‍🔬 B.Sc
-* HTML
-*💅🏽 CSS
-*💻 JS 
-*🐍 PYTHON
+- 👩🏽‍🔬 B.Sc
+-  HTML
+- 💅🏽 CSS
+-  💻 JS 
+-  🐍 PYTHON
 
 
 
