@@ -5,7 +5,7 @@
 
 #### Skills and Experience:
 - 👩🏽‍🔬 B.Sc
--  HTML
+- <> HTML
 - 💅🏽 CSS
 -  💻 JS 
 -  🐍 PYTHON
