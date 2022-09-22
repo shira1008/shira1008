@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://ik.imagekit.io/mtbrfqmmh/sdsdsds-removebg-preview_82Pzq_GV7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663881312407"  height='100' alt='Hi I'm Shira' />
+<img src="https://ik.imagekit.io/mtbrfqmmh/sdsdsds-removebg-preview_82Pzq_GV7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663881312407"  height='40' alt='Hi I'm Shira' />
 </p>
 
 
