@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://ik.imagekit.io/mtbrfqmmh/sdsdsds-removebg-preview_82Pzq_GV7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663881312407"  height='25' alt='Hi I'm Shira' /> <img src="https://cdn3.emoji.gg/emojis/7757-kirbysignhi.gif"  height='25'  />
+<img src="https://ik.imagekit.io/mtbrfqmmh/sdsdsds-removebg-preview_82Pzq_GV7.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663881312407"  height='25' alt='Hi I'm Shira' /> <img src="https://cdn3.emoji.gg/emojis/7757-kirbysignhi.gif"  height='50'  />
 </p>
 
 
