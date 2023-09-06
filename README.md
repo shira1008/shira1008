@@ -21,7 +21,7 @@
  </p>
 
 <p align="center">
- 🟧 HTML /  💅🏽 CSS / 💻 JavaScript - React / 🐍 PYTHON /➗ MATLAB
+ 🟧 HTML /  💅🏽 CSS / 💻 JavaScript - React / 🐍 Python - flask /➗ MATLAB
    </p>
    
 ##
