@@ -25,18 +25,14 @@
 
 <p align="center">
  🟧 HTML /  💅🏽 CSS / 💻 JavaScript - React / 🐍 Python - flask /➗ MATLAB
+ [Click here to see my portfolio](https://shira-shahar.netlify.app/)
    </p>
    
 ##
 
-stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shira1008&hide=contribs,prs)
 
 
-lang:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shira1008)](https://github.com/anuraghazra/github-readme-stats)
 
-[Click here to see my portfolio](https://shira-shahar.netlify.app/)
 
 
 
