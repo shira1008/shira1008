@@ -27,8 +27,7 @@
  🟧 HTML /  💅🏽 CSS / 💻 JavaScript - React / 🐍 Python - flask /➗ MATLAB
 
    </p>
-
-    [Click here to see my portfolio](https://shira-shahar.netlify.app/)
+       [Click here to see my portfolio](https://shira-shahar.netlify.app/)
    
 ##
 
