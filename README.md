@@ -25,8 +25,10 @@
 
 <p align="center">
  🟧 HTML /  💅🏽 CSS / 💻 JavaScript - React / 🐍 Python - flask /➗ MATLAB
- [Click here to see my portfolio](https://shira-shahar.netlify.app/)
+
    </p>
+
+    [Click here to see my portfolio](https://shira-shahar.netlify.app/)
    
 ##
 
