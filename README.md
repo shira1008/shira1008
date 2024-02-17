@@ -5,7 +5,7 @@
 </a>
  <img src="https://cdn3.emoji.gg/emojis/7757-kirbysignhi.gif"  height='50'  />
    </br>
- <a href="https://shira-shahar.netlify.app/">Visit My Portfolio</a>
+ <a href="https://shira-shahar.netlify.app/"> Visit My Portfolio </a>
 </p>
 
 
